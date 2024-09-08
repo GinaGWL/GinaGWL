@@ -54,7 +54,7 @@
 
 ### **TeamBuilder** | *Team Assignment Platform*
 
-**Tech Stack**: React.js, Node.js, MongoDB, Express.js | [Repository Link](https://github.com/GinaGWL/teambuilder)
+**Tech Stack**: React.js, Node.js, MongoDB, Express.js
 
 **Full-Stack MERN Application for Intelligent Team Formation**
 
@@ -65,7 +65,7 @@
 
 ### **Trackr** | *Financial Management Platform*
 
-**Tech Stack**: Spring Boot, React.js, PostgreSQL, Docker, Redux | [Repository Link](https://github.com/GinaGWL/trackr)
+**Tech Stack**: Spring Boot, React.js, PostgreSQL, Docker, Redux
 
 **Enterprise-Grade Personal Finance Application**
 
@@ -119,10 +119,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GinaGWL&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinaGWL&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GinaGWL&theme=github-dark-blue&hide_border=true" />
 </div>
 
